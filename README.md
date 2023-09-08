@@ -2,6 +2,7 @@
 
 ![ChrisRL95 GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRL95&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisRL95)](https://git.io/streak-stats)
 <!--
 **ChrisRL95/ChrisRL95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
