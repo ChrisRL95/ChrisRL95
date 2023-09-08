@@ -1,4 +1,4 @@
-  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/YtOvLWUNAZ8AAAAd/portal-portal2.gif">
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/YtOvLWUNAZ8AAAAd/portal-portal2.gif">
 
 ![ChrisRL95 GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRL95&show_icons=true&theme=radical)
 
